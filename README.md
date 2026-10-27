@@ -2,7 +2,7 @@
 
 OKpass je šifrovaný správce poznámek a hesel pro Windows, Linux, macOS a Android. Data se šifrují přímo ve vašem zařízení a ukládají se do složky `OKpass` na vašem Google Disku.
 
-**Stažení:** `OKpass-Setup.exe` pro Windows a `OKpass.apk` pro Android najdete na [apps.opikula.dev](https://apps.opikula.dev). Instalačku si můžete sestavit i sami ze zdrojového kódu, viz [Instalace](#instalace-windows-linux-macos).
+**Stažení:** `OKpass-Setup.exe` pro Windows a `OKpass.apk` pro Android najdete na [store.opikula.dev](https://store.opikula.dev). Instalačku si můžete sestavit i sami ze zdrojového kódu, viz [Instalace](#instalace-windows-linux-macos).
 
 | Složka | Obsah |
 |---|---|
@@ -42,7 +42,7 @@ OKpass je šifrovaný správce poznámek a hesel pro Windows, Linux, macOS a And
 
 ### Možnost 1: stáhnout instalačku (Windows)
 
-Stáhněte `OKpass-Setup.exe` na [apps.opikula.dev](https://apps.opikula.dev) a spusťte ho. Nic dalšího instalovat nemusíte, vše potřebné je uvnitř instalačky.
+Stáhněte `OKpass-Setup.exe` na [store.opikula.dev](https://store.opikula.dev) a spusťte ho. Nic dalšího instalovat nemusíte, vše potřebné je uvnitř instalačky.
 
 ### Možnost 2: ze zdrojového kódu
 
